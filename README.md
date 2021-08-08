@@ -1,5 +1,7 @@
-### Hi there 👋
+hello le monde ! 👋
 🌱 I’m currently learning Node and React  !!!! 
+
+Enjoy the visit :-) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leeroynico&theme=dark)](https://git.io/streak-stats)
 
