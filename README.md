@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Node and React  !!!! 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leeroynico)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leeroynico&theme=dark)](https://git.io/streak-stats)
 
 
 
