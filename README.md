@@ -1,5 +1,5 @@
 hello le monde ! 👋
-🌱 I’m currently learning Node and React  !!!! 
+🌱 I’m currently learning Node and React Native  !!!! 
 
 Enjoy the visit :-) 
 
