@@ -1,9 +1,9 @@
-hello le monde ! 👋
-🌱 I’m currently learning Node and React Native  !!!! 
+hello world ! 👋
+🌱 I’m a react developer, working for an elearning platform at Lille. 
 
 Enjoy the visit :-) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leeroynico&theme=dark)](https://git.io/streak-stats)
+[![GitHub Strek](https://github-readme-streak-stats.herokuapp.com/?user=leeroynico&theme=dark)](https://git.io/streak-stats)
 
 
 
